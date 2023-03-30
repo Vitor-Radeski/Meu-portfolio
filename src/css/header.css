@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+.header .logo{
+    margin-left: 17px;
+}
+
+.header .logo a img{
+    height: 65px;
+}

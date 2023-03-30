@@ -1,0 +1,13 @@
+:root{
+    --cor-fundo: darkcyan;
+    --cor-primaria: rgb(45, 39, 241);
+    --cor-secundaria: rgb(51, 246, 74);
+    --cor-fundo-secundario: navy;
+    --fonte-primaria: 'Poppins', sans-serif;
+    --fonte-secundaria: 'Raleway', sans-serif;
+    --fonte-gigante: 45px;
+    --fonte-extra-grande: 30px;
+    --fonte-grande: 24px;
+    --fonte-normal: 16px;
+    --mobile-padding: 30px;
+}
