@@ -118,6 +118,7 @@
         display: none;
         background-color: var(--cor-fundo-secundario);
         padding: 20px;
+        border-radius: 10px;
     }
 
     .header nav li a {
