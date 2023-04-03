@@ -10,6 +10,6 @@
     --fonte-grande: 24px;
     --fonte-normal: 16px;
     --mobile-padding: 30px;
-    --cor-sombra-primaria: blue;
-    --cor-sombra-secundaria: lightblue;
+    --cor-sombra-primaria: rgb(0, 72, 255);
+    --cor-sombra-secundaria: rgb(0, 149, 255);
 }
